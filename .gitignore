@@ -32,3 +32,4 @@ Thumbs.db
 
 # Build documentation
 docs/_build/
+venv/
